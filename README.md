@@ -19,7 +19,7 @@ The main purpose of this algorithm is to parse FDX files, convert them into JSON
        mainConvertFdxToJson(doc.documentElement, editor);
        return;
    }
-
+   
 2. The "mainConvertFdxToJson" function converts the XML into JSON. This makes it easier to work with the data.
 
 3. The JSON data is processed using a breadth-first search algorithm. The algorithm finds and organizes the necessary classes for the final output.
