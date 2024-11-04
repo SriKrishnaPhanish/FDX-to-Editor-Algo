@@ -25,6 +25,5 @@ The main purpose of this algorithm is to parse FDX files, convert them into JSON
 3. The JSON data is processed using a breadth-first search algorithm. The algorithm finds and organizes the necessary classes for the final output.
 
 4. HTML can be styled with CSS. You can apply styles to the classes generated in the output.
-5. 
-
-6. Tiptap editor is used for rendering and editing the parsed content. This editor allows users to modify the HTML output easily.
+   
+5. Tiptap editor is used for rendering and editing the parsed content. This editor allows users to modify the HTML output easily.
